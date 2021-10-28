@@ -15,7 +15,7 @@ This guide will focus on the 8 most popular coding languages, as for a beginner 
   7. RUBY
   8. Swift
 
-# Python
+# PYTHON
 
 _Professions:_
 
@@ -30,6 +30,13 @@ _Organisations who use this language:_
 
 Google, Pinterest, Instagram, YouTube, DropBox, NASA
 
-# 
+_Features:_
+* Simple to learn and easily read
+* Associated web frameworks for developing web-based applications
+* Free interpreter and standard library available in source or binary on major platforms
+
+# JAVA
+
+
 
 
