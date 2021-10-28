@@ -37,6 +37,30 @@ _Features:_
 
 # JAVA
 
+_Professions:_
+
+Software engineers, Java developers
+Used by employers in communications, education, finance, health sciences, hospitality, retail and utilities
+
+_Industries and Specialisations:_
+
+Internet of Things (IoT), Enterprise Architecture, Cloud Computing
+
+_Features:_
+
+* Application portability
+* Robust and interpreted language
+* Extensive network library
+
+# JAVASCRIPT
+
+_Professions🥇
+
+
+
+
+
+
 
 
 
