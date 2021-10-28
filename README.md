@@ -54,10 +54,20 @@ _Features:_
 
 # JAVASCRIPT
 
-_Professions🥇
+_Professions:_
 
+JavaScript developers, Web developers, software engineers
+Used by employers in Information Technology, Engineering, Design, Marketing, Finance and Healthcare
+ 
+_Industries and Specialisations:_
 
+Front End Website Development, Gaming Development
 
+_Features:_
+
+* Basic features are easy to learn
+* Multiple frameworks
+* Users can reference JQuery, a comprehensive Javascript library
 
 
 
