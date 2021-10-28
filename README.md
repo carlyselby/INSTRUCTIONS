@@ -94,7 +94,9 @@ _Features:_
 * Robust standard library (STL)
 
 FUN FACTS
+
 ! The Blackberry OS is developed using C++.
+
 ! The newest Microsoft Office suite was developed using C++
 
 # C#
@@ -156,7 +158,9 @@ Intuitive and flexible language
 Completely object-oriented (ability to use method chaining)
 
 FUN FACTS
+
 ! NASA uses Ruby to conduct simulations.
+
 ! Basecamp, Amazon, Twitter and Groupon were all created using Ruby on Rails
 
 
