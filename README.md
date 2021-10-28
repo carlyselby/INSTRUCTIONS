@@ -106,6 +106,60 @@ _Professions:_
 C# developers, automation test engineers, software engineers, senior .net Web developers
 Used by employers in Information Technology, Engineering, Design, Professional Services, Management and Quality Control
 
+_Industries and Specialisations:_
+
+Windows-based platforms
+
+_Features:_
+
+* Similar to Java in capabilities
+* Ideal for beginners
+* The go-to for working on Microsoft apps
+
+# HTML
+
+HTML (HyperText Markup Language) is the standard markup language used to create web pages; it ensures proper formatting of text and images (using tags) so that Internet browsers can display them in the ways they were intended to look.
+
+_Professions:_
+
+Web developers, technical editors, email designers, software engineers
+Used by employers in Information Technology, Engineering, Design, Professional Services, Management, Marketing, Customer Services and Sales
+
+_Industries and Specialisations:_
+
+Web Development, Email Programming
+
+_Features:_
+
+Easy to use and learn the basics of HTML
+Free and accessible
+Multiple versions available
+
+# RUBY
+
+Ruby is an open-sourced, object-oriented scripting language that can be used independently or as part of the Ruby on Rails web framework.
+Ruby is used for simulations, 3D modeling, and to manage and track information.
+
+_Professions:_ 
+
+Ruby on Rails developers, software engineers, data science engineers
+Used by employers in technology, engineering, professional services, design, science and quality control
+
+_Industries and Specialisations:_
+
+Web App Development, Robotics, Networking, System Administration and Security
+
+_Features:_
+
+Free to use, copy, modify and distribute
+Intuitive and flexible language
+Completely object-oriented (ability to use method chaining)
+
+FUN FACTS
+! NASA uses Ruby to conduct simulations.
+! Basecamp, Amazon, Twitter and Groupon were all created using Ruby on Rails
+
+
 
 
 
