@@ -163,6 +163,10 @@ FUN FACTS
 
 ! Basecamp, Amazon, Twitter and Groupon were all created using Ruby on Rails
 
+# A final message from me to you.
+
+Pick your language wisely, and once chosen, stick with it, and truly master it:) Create something never seen before, the possibilities are endless in how we communicate with computers. You may truly surprise yourself.
+
 
 
 
